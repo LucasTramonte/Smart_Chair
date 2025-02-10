@@ -1,0 +1,6 @@
+POT
+torch
+umap-learn
+scikit-learn
+tqdm
+ipython
