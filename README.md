@@ -5,6 +5,7 @@
 - [Organization](#Organization)
 - [Installation](#installation)
 - [Data collected](#Datacollected)
+- [Demo](#demo)
 
 ## Organization
 
@@ -49,3 +50,26 @@ postures, one by one, for several tens of seconds :
 Moreover we have reused the experimental protocol used by the previous group by recording new
 data of ourselves. This time, we maintained the postures for several minutes to collect more data.
 This allowed us to have data from 2 additional subjects (3 and 6) to train the atoms
+
+
+GitHub Copilot
+Here’s an improved version of the README.md with a section added for the demo link:
+
+Note: Download and install the TexWorks application for some graphical outputs.
+TexWorks can be downloaded from: http://www.tug.org/texworks/
+
+Data collected
+Thanks to the data provided by the client and the data recorded by the previous group, we initially had data from 7 patients. As described above, the data can be of two types, either spontaneous or controlled. For controlled data, the patients had to maintain each of the following 7 postures, one by one, for several tens of seconds:
+
+"Correct" posture
+Leaning forward with feet on the ground
+Leaning back with right leg crossed
+Leaning back with left leg crossed
+Leaning forward with right leg crossed
+Leaning forward with left leg crossed
+Leaning back with firm backrest pressure
+Moreover, we have reused the experimental protocol used by the previous group by recording new data of ourselves. This time, we maintained the postures for several minutes to collect more data. This allowed us to have data from 2 additional subjects (3 and 6) to train the atoms.
+
+## Demo
+A demonstration of the sensing mat in action can be found in the following [video](assets\demo_sensing_mat.mp4):
+
