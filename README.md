@@ -71,5 +71,5 @@ Leaning back with firm backrest pressure
 Moreover, we have reused the experimental protocol used by the previous group by recording new data of ourselves. This time, we maintained the postures for several minutes to collect more data. This allowed us to have data from 2 additional subjects (3 and 6) to train the atoms.
 
 ## Demo
-A demonstration of the sensing mat in action can be found in the following [video](assets\demo_sensing_mat.mp4):
+A demonstration of the sensing mat in action can be found in the following [video](https://github.com/LucasTramonte/Smart_Chair/blob/main/assets/demo_sensing_mat.mp4):
 
